@@ -1,0 +1,47 @@
+Required:
+  -
+    Quantity: 1
+    Type: Electret condenser microphone
+    URL: http://uk.farnell.com/kingstate/kecg2742pbl-a/microphone-electretcondenser/
+    dp/1502742?Ntt=KECG2742PBL-A
+  -
+    Quantity: 1
+    Type: Resistor 2.2k -
+  -
+    Quantity: 1
+    Type: Capacitor 1uF, 60V
+  -
+    Quantity: 1
+    Type: Proto kit (or another plastic box and a matrix board)
+    URL: http://uk.mouser.com/ProductDetail/BusBoard-Prototype-Systems/KIT-1593K-BK/? qs=sGAEpiMZZMtyU1cDF2RqUM25cO10NQ3ZruyNl0%2F9n4w%3D
+  -
+    Quantity: 1
+    Type: Coin battery holder
+    URL: http://parts.digikey.com/1/parts/1699728-holder-cell-2032-w-gold-pins-bh32t-cg.html
+  -
+    Quantity: 1
+    Type: Lithium coin battery 3V
+    URL: http://parts.digikey.com/1/parts/1241-battery-lithium-coin-3v-20mm-cr2032.html
+  -
+    Quantity: 1
+    Type: Mono chassis jack socket 1/4
+  -
+    Quantity: 1
+    Type: 1m electric cable (telephone cable)
+  -
+    Quantity: 1
+    Type: 2m electric flexible cable (audio cable)
+  -
+    Quantity: 1
+    Type: Silicon case (height 1.5cm, diameter 2cm, hole diameter 0.5cm)
+    URL: http://www.bumperfeet.co.uk/pd-2210-223mm-x-101mm-60-p.asp
+  -
+    Type: Velcro strips (hook and loop sides needs to be separated)
+  -
+    Type: Black thread
+Optional:
+  -
+    Quantity: 1
+    Type: Mini connector (alternative to directly solder the microphone to cables)
+  -
+    Type: Staples (alternative to sewing machine)
