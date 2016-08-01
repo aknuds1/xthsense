@@ -1,153 +1,55 @@
 # Xth Sense Assembly Reference v2.0
 **Please note that this is an unofficial project page, the official one is [here](http://res.marcodonnarumma.com/projects/xth-sense/).**
 
-**Thanks for choosing our kits!**
-This manual is written with the problems that we usually find in our workshops in mind.
-Also the order is meant to make assembly as easy as possible. Some steps are not obvious so even
-if you're an experienced DIYer, read the steps completely before taking them.
+Time required: from 1 up to 4 hours (depending on your skills and practice).
 
-If this is your first project, please read this article before you start assembling the kit:
-[www.befaco.org/howto/](http://www.befaco.org/howto/)
-
-**May the luck be with you!**
-
-## Main PCB (the small one)
-**Open Main Board Bag A**
-
-### Resistors
-Solder the resistors.
-
-### Diodes
-Solder the diodes **respecting the polarity**. A black or white line on the diode must be in the same
-place as the white line on the diode symbol on the PCB silkscreen.
-
-### Ferrite
-Solder the two ferrite beads passing trough a recycled resistor leg and proceed as if it were a
-resistor. Ferrite beads don't have polarity.
-
-The space for ferrites is a bit tight. Leave them a bit separated from the board to make them fit
-between the power connector and the diodes.
-
-**Open Main Board Bag B**
-
-### ICs
-**Place the IC sockets** taking care of their orientation and solder them on IC1, IC2 and IC3. The
-orientation must match the PCB's outline.
-
-Place the three ICs on the sockets taking care of polarity. The mark on the front of the IC must
-match the mark on the socket and the PCB's silkscreen.
-
-### Capacitors
-Solder the capacitors.
-
-### Electrolytic Capacitors
-Values written at the side of the capacitor. Mind polarity. Check the positive terminal on board and
-make it match with the long leg.
-
-### Transistors
-Make sure they are positioned correctly with reference to the silkscreen outline on the PCB.
-
-### Male Pin Headers
-Place and solder the two male pin headers on the silkscreen side, ensuring they are 90º to the PCB.
-The shortest side of the pins is for soldering.
-
-### Power Connector
-Solder the power connector ensuring the position is correct: it must be on the silkscreen side
-with the pins facing out.
-
-## Control PCB
-**Open Control Board Bag A**
-
-### Resistors
-Solder resistors.
-
-### Diodes
-Solder diodes observing polarity. The black line on the diode must be in the same
-place as the white line on the diode PCB silkscreen.
-
-### Capacitors
-Solder capacitors.
-
-### Electrolytic Capacitors
-Values written on the side of the capacitors. Mind polarity. Check positive terminal on board and
-make it match with the long leg.
-
-### Female Pin Headers
-Place the two female pin headers on the silkscreen side and solder them ensuring they are 90º to
-the PCB.
-
-**Open Control Board Bag B**
-
-### Spacers
-Place the four spacers on the holes using the male side and facing the resistor's side of the PCB.
-Then fix with the two 3mm nuts.
-
-### Front panel components mounting tips
-Now we will proceed to mount jacks, potentiometers, switches and LEDs. This part of assembly is
-CRITICAL. Please be gentle and read the instructions carefully. These components must NEVER
-be soldered until they are placed and/or totally screwed to the front panel.
-
-This is so for reasons:
-
-* The height of panel components is not exactly the same. Because of this, if not screwed properly
-before soldering, they will not stay properly seated to the panel. This might cause mechanical
-torsions, reducing their life expectancy and in worst cases they will break.
-* The second reason is that it is very difficult to hit the holes if panel is not positioned before
-soldering. In LEDs case they are almost impossible to place to the exact height without reference
-of the front panel.
-
-**Open mini-jacks bag**
-
-## Minijacks
-Place the minijacks ensuring they are on the silkscreen side but **don't solder them** until the
-front panel is in place and with all nuts screwed to it. This way it's easier to solder them in
-the right position. Keep in mind that the front panel holes are quite narrow and it is
-almost impossible to place it with all the components already soldered. Caution: the switch
-nuts and the jack nuts look alike but they are not and will not fit in each other's threads so
-don't mix them!
-
-## Potentiometers
-Cut the little edge on all four pots with cutting pliers as pictured:
-
-![Potentiometer](http://aknuds1.github.io/befaco-spring-reverb/pictures/potmeter.png "Potentiometer")
-
-Now place the potentiometers on the PCB but... **don't solder them**
-
-## Switch
-Place the toggle switch, but **don't solder it** until it's screwed to the front panel. This way
-it's easier to solder it in the right position.
-
-## Jack
-Place the Jack connector on the top side of the silkscreen, taking care to put it in the right
-position (the shape must match the drawing on the PCB) but don't solder it until it is screwed
-to the front panel.
-
-## LEDs
-Put the LEDs in place checking the polarity, but **don't solder them** until the front panel is
-in place. This is the only way to solder them in the right position.
-
-The long leg is the + and the short one is the minus. There is a + symbol on the PCB to indicate the
-correct position.
-
-## FRONT PANEL
-**Place the front panel** moving a little the parts one by one if necessary until you fit them
-to the top. At this point a pair of sharp tweezers can be helpful.
-
-Screw in the next order: Minijacks, switch, pots and jack.
-
-Until all of them are flat and touching completely the panel.
-**Then (finally) solder all of them.** ; )
-
-**Place the LEDs** in the panel holes making sure they are on the right level and proceed to
-solder them.
-
-**Plug the PCB1 onto the PCB2** using the pin headers and ensuring the two 3mm holes match
-the spacers. Screw both boards using two screws.
-
-**Put the knobs** on the potentiometers and the caps on the switches/faders.
-
-**Plug in the power ribbon cable**: The blue wire (negative) corresponds to pin number one
-of the connector. Pin number one is indicated with a small triangle and usually with a line on
-your power bus.
-
-**Enjoy!**
+1. Make sure you have all parts and components (see Parts list), and the right tools.
+You'll need: a solder iron, solder, wirestripper, stranded wire, scissors, and a 3V coin battery.
+2. Cut the matrix board in order to comfortably fit the box, but bear in mind the board has to be
+big enough to accommodate all the components.
+3. Solder the circuit following carefully the schematics. You can solder everything except the
+flexible audio cable. We'll do this later on. See the suggested layout below.
+4. If you need help understanding the schematics make sure to check the file titled “xthsense_
+soldered-board.pdf”. It illustrates how to solder the components.
+5. Using a suitable drill, make 2 holes in the plastic box.
+One hole is needed for the flexible cable to reach the circuit inside the box; this can be done
+on the longer side of the box. Another hole is needed to fit the jack socket, thus it has to be
+bigger enough and well centered on the side of the box; this can be done on the shorter side of
+the box.
+Always check the best location for the holes and the jack socket by inserting the circuit inside
+the box *BEFORE* making the holes.
+6. Cut a 1m long flexible cable (or longer, depending on which parts of the body you want to use).
+7. Accommodate the flexible audio cable through the smaller hole on the box and solder the
+cable voltage and ground wires to the circuit according to the schematics.
+8. Now position the circuit inside the box and fix the jack socket into its hole.
+Make sure you can close the box!
+Sometimes the jack socket might be slightly higher then the height of the box. If so, just cut
+away a small piece of the box cover so that you can close the box.
+9. Prepare the velcro arm band.
+Cut two velcro strips (one with the hooks and one with the loops) about 10/15cm long (this
+can be adjustable to the diameter you need).
+Sew them together, but REMEMBER NOT TO SEW a small part (about 3/4cm) of one of the
+sides of the arm band (at about 1/4 of the whole lenght of the arm band), AND cut out a small
+corner at one end of the arm band. You will need those holes to be able to embed the cable
+into the arm band.
+10. When the arm band is ready, cut a small hole on the loop side of the arm band; the position of
+the hole should be at about 1/3 of the whole lenght of the arm band. We will use this hole to
+embed the microphone.
+11. Take the free end of the audio cable, and insert it in between the two sides of the velcro arm
+band. Insert the cable from the corner of the arm band that has been cut (see picture above).
+Let the audio cable come out of the hole you cut into the arm band.
+12. Cut a small piece of the matrix board (like 4x3 holes). Solder the microphone onto the yellow
+side of it. Turn the small piece of board on the other side, where the copper is, and solder the
+two wires of the audio cable to the microphone pins (don't mix up voltage and ground!). See
+the microphone specification sheet (included in this package).
+13. Isolate each wire (voltage and ground) separately , by applying black tape on the solder iron.
+14. Pull delicately the audio cable until the small piece of the board sits onto the velcro arm band.
+15. You're almost done!!
+Place the silicon case on the microphone, make sure that the microphone is as much static as
+possible. More the microphone is moving, less accurate the signal is. Be careful not to push the
+microphone too strongly. The hole in the silicon case is tight on purpose and it might need a
+little bit of fiddling to fit. Once inside, it won't move any more.
+IMPORTANT: it is crucial that the microphone is located at the bottom of the silicon case.
+If the mic is too high it will touch your skin, and this is bad because the mic does not work with
+skin-contact. If the mic is too low inside the silicon case, the muscle sound will be very quiet.
+16. Insert the battery into its battery holder, close the box, you're done, have fun!!
