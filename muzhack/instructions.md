@@ -8,9 +8,9 @@ You'll need: a solder iron, solder, wirestripper, stranded wire, scissors, and a
 2. Cut the matrix board in order to comfortably fit the box, but bear in mind the board has to be
 big enough to accommodate all the components.
 3. Solder the circuit following carefully the schematics. You can solder everything except the
-flexible audio cable. We'll do this later on. See the suggested layout below.
+flexible audio cable. We'll do this later on. See the suggested layout below:
 ![Layout](https://aknuds1.github.io/xthsense/images/xthsense-layout.png)
-4. If you need help understanding the schematics, please consult the below picture:
+If you need help understanding the schematics, please consult the below picture:
 ![Soldering](https://aknuds1.github.io/xthsense/images/xthsense-soldered.png)
 5. Using a suitable drill, make 2 holes in the plastic box.
 One hole is needed for the flexible cable to reach the circuit inside the box; this can be done
