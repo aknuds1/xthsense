@@ -4,7 +4,7 @@
 Time required: from 1 up to 4 hours (depending on your skills and practice).
 
 1. Make sure you have all parts and components (see BOM), and the right tools.
-You'll need: a solder iron, solder, wirestripper, stranded wire, scissors, and a 3V coin battery.
+You'll need: a solder iron, solder, wirestripper, stranded wire, scissors and a 3V coin battery.
 2. Cut the matrix board in order to comfortably fit the box, but bear in mind the board has to be
 big enough to accommodate all the components.
 3. Solder the circuit carefully following the schematics. You can solder everything except the
