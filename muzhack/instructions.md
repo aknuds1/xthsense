@@ -9,8 +9,9 @@ You'll need: a solder iron, solder, wirestripper, stranded wire, scissors, and a
 big enough to accommodate all the components.
 3. Solder the circuit following carefully the schematics. You can solder everything except the
 flexible audio cable. We'll do this later on. See the suggested layout below.
-4. If you need help understanding the schematics make sure to check the file titled “xthsense_
-soldered-board.pdf”. It illustrates how to solder the components.
+![Layout](https://aknuds1.github.io/xthsense/images/xthsense-layout.png)
+4. If you need help understanding the schematics, please consult the below picture:
+![Soldering](https://aknuds1.github.io/xthsense/images/xthsense-soldered.png)
 5. Using a suitable drill, make 2 holes in the plastic box.
 One hole is needed for the flexible cable to reach the circuit inside the box; this can be done
 on the longer side of the box. Another hole is needed to fit the jack socket, thus it has to be
@@ -19,12 +20,14 @@ the box.
 Always check the best location for the holes and the jack socket by inserting the circuit inside
 the box *BEFORE* making the holes.
 6. Cut a 1m long flexible cable (or longer, depending on which parts of the body you want to use).
-7. Accommodate the flexible audio cable through the smaller hole on the box and solder the
-cable voltage and ground wires to the circuit according to the schematics.
+7. Accommodate the flexible audio cable through the smaller hole on the box and solder the cable
+voltage and ground wires to the circuit according to the schematics.
+![Audio cable](https://aknuds1.github.io/xthsense/images/xthsense-audiocable.png)
 8. Now position the circuit inside the box and fix the jack socket into its hole.
 Make sure you can close the box!
 Sometimes the jack socket might be slightly higher then the height of the box. If so, just cut
 away a small piece of the box cover so that you can close the box.
+![Jack socket](https://aknuds1.github.io/xthsense/images/xthsense-jacksocket.png)
 9. Prepare the velcro arm band.
 Cut two velcro strips (one with the hooks and one with the loops) about 10/15cm long (this
 can be adjustable to the diameter you need).
@@ -35,6 +38,7 @@ into the arm band.
 10. When the arm band is ready, cut a small hole on the loop side of the arm band; the position of
 the hole should be at about 1/3 of the whole lenght of the arm band. We will use this hole to
 embed the microphone.
+![Velcro](https://aknuds1.github.io/xthsense/images/xthsense-velcro.png)
 11. Take the free end of the audio cable, and insert it in between the two sides of the velcro arm
 band. Insert the cable from the corner of the arm band that has been cut (see picture above).
 Let the audio cable come out of the hole you cut into the arm band.
@@ -42,8 +46,10 @@ Let the audio cable come out of the hole you cut into the arm band.
 side of it. Turn the small piece of board on the other side, where the copper is, and solder the
 two wires of the audio cable to the microphone pins (don't mix up voltage and ground!). See
 the microphone specification sheet (included in this package).
-13. Isolate each wire (voltage and ground) separately , by applying black tape on the solder iron.
+![Battery](https://aknuds1.github.io/xthsense/images/xthsense-battery.png)
+13. Isolate each wire (voltage and ground) separately, by applying black tape on the solder iron.
 14. Pull delicately the audio cable until the small piece of the board sits onto the velcro arm band.
+![Sensor](https://aknuds1.github.io/xthsense/images/xthsense-sensor.png)
 15. You're almost done!!
 Place the silicon case on the microphone, make sure that the microphone is as much static as
 possible. More the microphone is moving, less accurate the signal is. Be careful not to push the
