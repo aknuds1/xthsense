@@ -27,17 +27,17 @@ with us on [Facebook](http://www.facebook.com/XthSense) too.
 
 [!vimeo](86766860)
 
-The XS amplifies the muscle sounds of the human body, and use them as control data and
+The Xth Sense amplifies the muscle sounds of the human body, and uses them as control data and
 musical material. When a performer contracts any muscle, low frequency sound is produced
 (technically called [mechanomyogram](http://en.wikipedia.org/wiki/Mechanomyogram) or MMG).
-By capturing these sounds with a microphone sensor
-embedded in the XS armband, and live sampling them with a computer you get music in real time.
-It’s like connecting a guitar to an effect pedal; in this case you connect your body to a
-computer. You have complete control over the shape of the sounds by simply contracting
-your muscles in different ways. For the tech-savy out there, more detailed
-information can be found in this [list of publications](http://marcodonnarumma.com/texts/).
+By capturing these sounds with a microphone sensor embedded in the XS armband, and live sampling
+them with a computer you get music in real time. It’s like connecting a guitar to an effect pedal;
+in this case you connect your body to a computer. You have complete control over the shape of the
+sounds by simply contracting your muscles in different ways. For the tech-savvy out there, more
+detailed information can be found in this
+[list of publications](http://marcodonnarumma.com/texts/).
 
-The software driving the system is written in [Pure Data aka Pd](http://puredata.info/).
+The software driving the system is written in [Pure Data AKA Pd](http://puredata.info/).
 It comes with a user-friendly interface,
 [features extraction](http://en.wikipedia.org/wiki/Feature_extraction), global preset saving and
 many other features. The software can be used as a stand-alone Pd patch or it can communicate
