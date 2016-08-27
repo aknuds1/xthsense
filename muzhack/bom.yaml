@@ -6,9 +6,11 @@ Required:
   -
     Quantity: 1
     Type: Resistor 2.2k
+    URL: "http://www.taydaelectronics.com/resistors/1-4w-carbon-film-resistors/10-x-resistor-2-2k-ohm-1-4w-5-carbon-film-pkg-of-10.html"
   -
     Quantity: 1
     Type: Capacitor 1uF, 60V
+    URL: "https://octopart.com/mal202138108e3-vishay+bccomponents-12672434"
   -
     Quantity: 1
     Type: Proto kit (or another plastic box and a matrix board)
@@ -24,6 +26,7 @@ Required:
   -
     Quantity: 1
     Type: Mono chassis jack socket 1/4
+    URL: "http://www.taydaelectronics.com/6-35mm-1-4-stereo-insulated-unswitched-socket-jack.html"
   -
     Quantity: 1
     Type: 1m electric cable (telephone cable)
