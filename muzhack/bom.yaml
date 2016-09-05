@@ -10,7 +10,7 @@ Required:
   -
     Quantity: 1
     Type: Capacitor 1uF, 60V
-    URL: "https://octopart.com/mal202138108e3-vishay+bccomponents-12672434"
+    URL: "http://www.taydaelectronics.com/1uf-100v-85c-radial-electrolytic-capacitor-5x11mm.html"
   -
     Quantity: 1
     Type: Proto kit (or another plastic box and a matrix board)
@@ -30,9 +30,11 @@ Required:
   -
     Quantity: 1
     Type: 1m electric cable (telephone cable)
+    URL: "https://octopart.com/30-9540-gc+electronics-931416"
   -
     Quantity: 1
     Type: 2m electric flexible cable (audio cable)
+    URL: "https://octopart.com/p312-010-tripp+lite-9106341"
   -
     Quantity: 1
     Type: Silicone case (height 1.5cm, diameter 2cm, hole diameter 0.5cm)
