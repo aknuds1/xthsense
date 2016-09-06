@@ -1,7 +1,7 @@
 # Xth Sense
 
 **Please note that this is an unofficial project page, the official one is
-[here](http://res.marcodonnarumma.com/projects/xth-sense/).**
+[here](http://res.marcodonnarumma.com/projects/xth-sense/), where this text is copied from.**
 
 The Xth Sense™ (2010-14) is a free and open biophysical technology. With it you can produce music
 with the sound of your body. The Xth Sense captures sounds from heart, blood and muscles and
@@ -20,10 +20,6 @@ You can build an Xth Sense and learn how to use it either on your own by checkin
 documentation here, or by taking part in one of the [regular workshops](http://marcodonnarumma.com/teaching/xth-sense-biophysical-music/)
 taught worldwide by the Xth Sense creator Marco Donnarumma. If you are an
 organisation and wish to host a workshop, please [get in touch](mailto:m@marcodonnarumma.com).
-
-The Xth Sense users forum lives at
-[Createdigitalnoise/xth](http://createdigitalnoise.com/categories/xth), and you can connect
-with us on [Facebook](http://www.facebook.com/XthSense) too.
 
 [!vimeo](86766860)
 
