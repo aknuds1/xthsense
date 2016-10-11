@@ -38,7 +38,7 @@ Let the audio cable come out of the hole you cut into the arm band.
 12. Cut a small piece of the matrix board (like 4x3 holes). Solder the microphone onto its back
 (i.e. the side without copper). Turn the small piece of board on the other side (with copper)
 and solder the two wires of the audio cable to the microphone pins, making sure you match voltage
-and ground (refer to the microphone specification sheet).
+and ground (the microphone's left connector is voltage and the right connector ground).
 ![Battery](https://aknuds1.github.io/xthsense/images/xthsense-battery.png)
 13. Isolate each wire (voltage and ground) separately, by applying black tape on the soldering iron.
 14. Pull the audio cable delicately until the small piece of board sits onto the velcro arm band.
