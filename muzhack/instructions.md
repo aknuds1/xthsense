@@ -37,13 +37,13 @@ band. Insert the cable from the corner of the arm band that has been cut (see pi
 Let the audio cable come out of the hole you cut into the arm band.
 12. Cut a small piece of the matrix board (like 4x3 holes). Solder the microphone onto its back
 (i.e. the side without copper). Turn the small piece of board on the other side (with copper)
-and solder the two wires of the audio cable to the microphone pins (don't mix up voltage and
-ground!). See the microphone specification sheet (included in this package).
+and solder the two wires of the audio cable to the microphone pins, making sure you match voltage
+and ground (refer to the microphone specification sheet).
 ![Battery](https://aknuds1.github.io/xthsense/images/xthsense-battery.png)
 13. Isolate each wire (voltage and ground) separately, by applying black tape on the soldering iron.
-14. Pull the audio cable delicately until the small piece of the board sits onto the velcro arm band.
+14. Pull the audio cable delicately until the small piece of board sits onto the velcro arm band.
 ![Sensor](https://aknuds1.github.io/xthsense/images/xthsense-sensor.png)
-15. You're almost done!! Place the silicone case on the microphone, make sure that the microphone
+15. You're almost done!! Place the silicone case on the microphone, making sure that the microphone
 is as fixed as possible. The more the microphone is moving, the less accurate the signal is.
 Be careful not to push the microphone too strongly. The hole in the silicone case is tight on
 purpose and it might need a little bit of fiddling to fit. Once inside, it won't move any more.
