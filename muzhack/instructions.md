@@ -7,8 +7,9 @@ Time required: from 1 up to 4 hours (depending on your skills and practice).
 You'll need: a soldering iron, solder, wire stripper, stranded wire, scissors and a 3V coin battery.
 2. Cut the matrix board in order to comfortably fit the box, but bear in mind the board has to be
 big enough to accommodate all the components.
-3. Solder the circuit carefully following the schematics. You can solder everything except the
-flexible audio cable. We'll do this later on. See the suggested layout below:
+3. Solder the circuit carefully following the schematics, keeping in mind the polarity of the
+components. You can solder everything except the flexible audio cable. We'll do this later on.
+See the suggested layout below:
 ![Layout](https://aknuds1.github.io/xthsense/images/xthsense-layout.png)
 If you need help understanding the schematics, please consult the below picture:
 ![Soldering](https://aknuds1.github.io/xthsense/images/xthsense-soldered.png)
